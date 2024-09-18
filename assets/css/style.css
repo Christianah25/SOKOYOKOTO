@@ -186,13 +186,24 @@ footer {
     padding: 20px;
 }
 
-/* ----------------------------------------Three Reasons */
+/* ----------------------------------------know us */
 
-.three-reasons-icon {
+.know-us-icon {
     font-size: 26px;
     color: #e43d12;
 }
 
-.three-reasons-heading {
+.know-us-heading {
     margin-bottom: 15px;
+}
+
+/* ----------------------------------------dishes photos */
+#photos {
+    clear: both;
+    line-height: 0;
+    column-count: 3;
+    column-gap: 2px;
+}
+#photos img{
+    width: 100%;
 }

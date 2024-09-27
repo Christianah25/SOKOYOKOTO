@@ -18,40 +18,8 @@ Where to register for training
 The website was designed to satisfy client need by using few colours and bright colours where necessary and by making sure all bottons are invisible, not in hidden. Also easy to navigate 
 All icons used suite the purpose and convey proper meaning of the word they represented.
 
-## Users story
-I want to see the picture of the food with there name and price without any for hidden it.
-I dont want to fill too much details to order for food
-I only want to supply simnple and less sensitive information
-I want to have opportunity contact them either to complain or complement.
 
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
-
-`python3 -m http.server`
-
-A blue button should appear to click: _Make Public_,
-
-Another blue button should appear to click: _Open Browser_.
-
-To run a backend Python file, type `python3 app.py` if your Python file is named `app.py`, of course.
-
-A blue button should appear to click: _Make Public_,
-
-Another blue button should appear to click: _Open Browser_.
-
-By Default, Gitpod gives you superuser security privileges. Therefore, you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you, so do not share it. If you accidentally make it public, you can create a new one with _Regenerate API Key_.
-
-### Connecting your Mongo database
 
 - **Connect to Mongo CLI on a IDE**
 - navigate to your MongoDB Clusters Sandbox

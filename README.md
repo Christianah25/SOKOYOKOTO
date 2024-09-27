@@ -1,12 +1,29 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+SOKOYOKOTO
 
-Welcome Christianah25 Ugbaja,
+## PROJECT GOAL
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+The primary goal of Sokoyokoto is to introduce both local and intercontinental food section of Maris Bites Kitchen, a food company that deals with local and intercontinental dishes, baking, pastries. Also For customer to be able to order for food online and to be able to register to train
 
-You can safely delete this README.md file or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **June 18, 2024**
+## TARGET AUDIENCE
 
-## Gitpod Reminders
+The target audience for this site are those that order food online and thse who want to become a cook.
+
+A space to view the food and price
+
+Where tto order 
+
+Where to register for training
+
+## Design choice
+The website was designed to satisfy client need by using few colours and bright colours where necessary and by making sure all bottons are invisible, not in hidden. Also easy to navigate 
+All icons used suite the purpose and convey proper meaning of the word they represented.
+
+## Users story
+I want to see the picture of the food with there name and price without any for hidden it.
+I dont want to fill too much details to order for food
+I only want to supply simnple and less sensitive information
+I want to have opportunity contact them either to complain or complement.
+
 
 To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
 

@@ -87,6 +87,7 @@ GitHub is used to store the projects code after being pushed from Git.
 - Balsamiq:
 Balsamiq was used to create the wireframes during the design process.
 - Free frontend website: to get sample code for some task
+- Postermywall: an open source design software was used to combine the desktop and mobile image of the site.
 
 ## Testing
 

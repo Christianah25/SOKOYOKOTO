@@ -14,8 +14,7 @@ The website, a landing page for Sokoyokoto is divided into the following section
 * Meet the CEO.
 * Three section of who they are, their location and why choosen them.
 * A footer section.
- 
-
+ View the live project https://christianah25.github.io/SOKOYOKOTO/
 ## TARGET AUDIENCE
 
 The target audience for this site are those that order food online and those who want to become a cook.
@@ -101,33 +100,13 @@ The project was deployed to GitHub Pages using the following steps...
 
 Log in to GitHub and locate the GitHub Repository
 At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
-Alternatively Click Here for a GIF demonstrating the process starting from Step 2.
-Scroll down the Settings page until you locate the "GitHub Pages" Section.
-Under "Source", click the dropdown called "None" and select "Master Branch".
-The page will automatically refresh.
-Scroll back down through the page to locate the now published site link in the "GitHub Pages" section.
-Forking the GitHub Repository
-By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
 
-Log in to GitHub and locate the GitHub Repository
-At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
-You should now have a copy of the original repository in your GitHub account.
-Making a Local Clone
-Log in to GitHub and locate the GitHub Repository
-Under the repository name, click "Clone or download".
-To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
-Open Git Bash
-Change the current working directory to the location where you want the cloned directory to be made.
-Type git clone, and then paste the URL you copied in Step 3.
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
-Press Enter. Your local clone will be created.
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
-> Cloning into `CI-Clone`...
-> remote: Counting objects: 10, done.
-> remote: Compressing objects: 100% (8/8), done.
-> remove: Total 10 (delta 1), reused 10 (delta 1)
-> Unpacking objects: 100% (10/10), done.
-Click Here to retrieve pictures for some of the buttons and more detailed explanations of the above process.
+Scroll down the Settings page until you locate the "GitHub Pages" Section.
+Under "Source", click the dropdown called "None" and select "Main".
+Click save.
+immediately after you click save the site is deployed.
+Click on code menu by the left side 
+Look for deployment at the right side, it will show it has been deploy and the time.
 
 ## Credits
 - Logo
